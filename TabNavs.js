@@ -11,7 +11,7 @@ class TabNavs extends React.Component {
     if (this.props.all) {
       this.props.data[0] = {
         key: 'all',
-        name: '全部'
+        name: '全部',
       };
     }
 
@@ -39,7 +39,7 @@ class TabNavs extends React.Component {
 TabNavs.defaultProps = {
   all: false,
   data: [],
-  paramName: 'status'
+  paramName: 'status',
 };
 
 export default TabNavs;
