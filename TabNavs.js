@@ -3,7 +3,7 @@ import {Link} from 'react-router-dom';
 import map from 'lodash/map';
 import find from 'lodash/find';
 import classNames from 'classnames';
-import {Nav} from "react-bootstrap";
+import {Nav} from 'react-bootstrap';
 import appendUrl from 'append-url';
 
 class TabNavs extends React.Component {

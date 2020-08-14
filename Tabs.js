@@ -1,4 +1,4 @@
-import React from "react";
+import React from 'react';
 import {Tabs as RbTabs} from 'react-bootstrap';
 import classNames from 'classnames';
 
