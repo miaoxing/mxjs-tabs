@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`test basic 1`] = `
+<div>
+  <nav
+    class="nav-underline header-nav nav nav-tabs"
+    role="tablist"
+  />
+  <div
+    class="tab-content"
+  />
+</div>
+`;
