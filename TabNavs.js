@@ -5,6 +5,8 @@ import find from 'lodash/find';
 import classNames from 'classnames';
 import {Nav} from 'react-bootstrap';
 import appendUrl from 'append-url';
+import PropTypes from 'prop-types';
+import $ from 'miaoxing';
 
 class TabNavs extends React.Component {
   render() {
@@ -40,6 +42,14 @@ TabNavs.defaultProps = {
   all: false,
   data: [],
   paramName: 'status',
+};
+
+TabNavs.propTypes = {
+  all: PropTypes.bool,
+  data: PropTypes.oneOfType([PropTypes.array, PropTypes.object]),
+  paramName: PropTypes.string,
+  baseUrl: PropTypes.string,
+  className: PropTypes.string,
 };
 
 export default TabNavs;
