@@ -1,4 +1,4 @@
-import React from 'react';
+import { Component } from 'react';
 import {Link} from 'react-router-dom';
 import map from 'lodash/map';
 import find from 'lodash/find';
@@ -8,7 +8,7 @@ import appendUrl from 'append-url';
 import PropTypes from 'prop-types';
 import $ from 'miaoxing';
 
-class TabNavs extends React.Component {
+class TabNavs extends Component {
   render() {
     if (this.props.all) {
       this.props.data[0] = {

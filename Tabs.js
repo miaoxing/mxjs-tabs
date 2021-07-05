@@ -1,4 +1,3 @@
-import React from 'react';
 import {Tabs as RbTabs} from 'react-bootstrap';
 import classNames from 'classnames';
 import PropTypes from 'prop-types';
