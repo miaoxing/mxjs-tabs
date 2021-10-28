@@ -1,3 +1,25 @@
+# [0.2.0](https://github.com/miaoxing/mxjs-tabs/compare/v0.1.3...v0.2.0) (2021-10-28)
+
+
+### Features
+
+* `react` 依赖移到 `peerDependencies` 中，开发依赖使用 `react` 17 ([fddee65](https://github.com/miaoxing/mxjs-tabs/commit/fddee65ceeb6db924ad4cbe8728906486f8c738e))
+
+
+### BREAKING CHANGES
+
+* `react` 依赖移到 `peerDependencies` 中，开发依赖使用 `react` 17
+
+
+
+
+
+### Dependencies
+
+* **append-url:** upgrade from `1.0.13` to `1.0.14`
+* **miaoxing:** upgrade from `0.2.5` to `0.3.0`
+* **@miaoxing/dev:** upgrade from `7.0.1` to `8.0.0`
+
 ## [0.1.3](https://github.com/miaoxing/mxjs-tabs/compare/v0.1.2...v0.1.3) (2021-05-12)
 
 
