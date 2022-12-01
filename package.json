@@ -1,6 +1,6 @@
 {
   "name": "@mxjs/tabs",
-  "version": "0.2.5",
+  "version": "0.2.6",
   "main": "index.js",
   "license": "MIT",
   "publishConfig": {
@@ -18,7 +18,7 @@
     "append-url": "^1.0.19",
     "lodash": "^4.17.21",
     "prop-types": "^15.7.2",
-    "miaoxing": "^0.4.4"
+    "miaoxing": "^0.4.5"
   },
   "devDependencies": {
     "@miaoxing/dev": "^8.1.3",

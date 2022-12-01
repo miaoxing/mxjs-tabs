@@ -1,3 +1,13 @@
+## [0.2.6](https://github.com/miaoxing/mxjs-tabs/compare/v0.2.5...v0.2.6) (2022-12-01)
+
+
+
+
+
+### Dependencies
+
+* **miaoxing:** upgrade from `0.4.4` to `0.4.5`
+
 ## [0.2.5](https://github.com/miaoxing/mxjs-tabs/compare/v0.2.4...v0.2.5) (2022-08-02)
 
 
