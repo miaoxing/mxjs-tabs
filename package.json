@@ -1,6 +1,6 @@
 {
   "name": "@mxjs/tabs",
-  "version": "0.2.9",
+  "version": "0.2.10",
   "main": "index.js",
   "license": "MIT",
   "publishConfig": {
@@ -15,13 +15,13 @@
     "react-router-dom": "^5.2.0",
     "classnames": "^2.2.6",
     "react-bootstrap": "^1.0.0",
-    "append-url": "^1.0.22",
+    "append-url": "^1.0.23",
     "lodash": "^4.17.21",
     "prop-types": "^15.7.2",
-    "miaoxing": "^0.4.8"
+    "miaoxing": "^0.4.9"
   },
   "devDependencies": {
-    "@miaoxing/dev": "^8.2.2",
+    "@miaoxing/dev": "^8.2.3",
     "@testing-library/react": "^11.2.6",
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
