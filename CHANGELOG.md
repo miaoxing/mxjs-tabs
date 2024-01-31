@@ -1,3 +1,10 @@
+## [0.2.14](https://github.com/miaoxing/mxjs-tabs/compare/v0.2.13...v0.2.14) (2024-01-31)
+
+
+### Features
+
+* 更新 `react` 支持 18 ([64dd3b8](https://github.com/miaoxing/mxjs-tabs/commit/64dd3b8639cc92edf24360c527069131a76e6038))
+
 ## [0.2.13](https://github.com/miaoxing/mxjs-tabs/compare/v0.2.12...v0.2.13) (2024-01-08)
 
 
